@@ -56,8 +56,8 @@
       ]
     },
     {
-      "label": "TESTTTT",
-      "image": "sp_imitia.png",
+      "label": "test",
+      "image": "town_1.png",
       "area": "bottom",
       "command": "/starpond",
       "clickType": "left",
@@ -69,7 +69,7 @@
     },
     {
       "label": "Lv.20 普羅尼西亞",
-      "image": "pronisia.png",
+      "image": "town_2.png",
       "area": "bottom",
       "command": "/starpond",
       "clickType": "left",
@@ -81,7 +81,7 @@
     },
     {
       "label": "Lv.14 森精靈聚落",
-      "image": "forest_elf.png",
+      "image": "tp_1.png",
       "area": "bottom",
       "command": "/starpond",
       "clickType": "left",
@@ -93,7 +93,7 @@
     },
     {
       "label": "Lv.14 黑刃團聚點",
-      "image": "blackblade.png",
+      "image": "tp_2.png",
       "area": "bottom",
       "command": "/starpond",
       "clickType": "left",
@@ -105,7 +105,7 @@
     },
     {
       "label": "Lv.11 水晶濂洞入口",
-      "image": "crystal_cave.png",
+      "image": "tp_3.png",
       "area": "bottom",
       "command": "/starpond",
       "clickType": "left",
@@ -117,7 +117,7 @@
     },
     {
       "label": "Lv.20 獄怒之劍征討戰入口",
-      "image": "fury_sword.png",
+      "image": "tp_4.png",
       "area": "bottom",
       "command": "/starpond",
       "clickType": "left",
@@ -129,7 +129,7 @@
     },
     {
       "label": "Lv.20 郊雷狼嶺入口",
-      "image": "wolf_ridge.png",
+      "image": "tp_5.png",
       "area": "bottom",
       "command": "/starpond",
       "clickType": "left",
